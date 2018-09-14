@@ -10,6 +10,8 @@ public static void main(String args[])
 	//BasicConfigurator.configure();
 	logger.info("Logger message in test class");
 	System.out.println("Hello Kalyan");
+	System.out.println("Hello Kalyan Thota.");
+	System.out.println("Hello Kalyan Thota. How are you");
 	try{
 		int a=10;
 		int b=10;
